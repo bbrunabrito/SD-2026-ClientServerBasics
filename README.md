@@ -215,4 +215,3 @@ Speedups relativos ao baseline (A): **B ≈ 0,69×** (mais lento que A),
   cliente que também envia em paralelo). Multithreading "só por multithreading"
   em um dos lados pode até piorar o desempenho.
 
-
